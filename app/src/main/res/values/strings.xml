@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TiendaVirtual</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrar">Crear una cuenta</string>
+    <string name="registrar">Registrar</string>
+    <string name="emptyChartMessage">Parece que aún no seleccionas ningún producto</string>
+</resources>
